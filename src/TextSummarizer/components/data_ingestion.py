@@ -1,5 +1,5 @@
 import os
-import urllib.request as request 
+import urllib.request as request
 import zipfile
 from TextSummarizer.logging import logger
 from TextSummarizer.utils.common import get_size
