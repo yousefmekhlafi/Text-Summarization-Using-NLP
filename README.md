@@ -24,12 +24,12 @@ Project code: [https://github.com/krishnaik06/Text-Summarization-NLP-Project](ht
 
 1. Clone my repository (on your local machine)
 
-"git clone https://github.com/yousefmekhlafi/chest-cancer-classification"
+"git clone https://github.com/yousefmekhlafi/Text-Summarization-Using-NLP"
 
 2. Create a virtual environment on vscode "textS" and activate it
 
-"conda create -n ccancer python=3.8 -y"
-"conda activate ccancer"
+"conda create -n textS python=3.8 -y"
+"conda activate textS"
 
 3. install requirements
 "pip install -r requirements.txt"
